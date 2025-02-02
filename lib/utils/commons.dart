@@ -1,0 +1,3 @@
+class MyUtils{
+  MyUtils._();
+}
