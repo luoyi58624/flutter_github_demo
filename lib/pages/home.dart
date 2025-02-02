@@ -14,7 +14,11 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: const Text('首页'),
       ),
-      body: Container(),
+      body: Container(
+        width: 100,
+        height: 100,
+        color: Colors.green,
+      ),
     );
   }
 }
